@@ -1,0 +1,33 @@
+body, .main{
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+
+.main{
+ 
+   
+    flex-direction: column;
+}
+.time{
+    margin-top: 20px;
+    width: 230px;
+}
+.selDesign{
+   width: 76px;
+   padding: 5px;
+}
+.txtdesign{
+    margin-top: 10px;
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+.setAlarm{
+    width: 260px;
+    
+}
